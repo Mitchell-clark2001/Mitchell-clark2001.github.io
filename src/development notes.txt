@@ -1,0 +1,5 @@
+use HTML for functionality
+CSS for styling
+use React/Javascript for advanced styling and functionality
+
+Tailwind CSS library
